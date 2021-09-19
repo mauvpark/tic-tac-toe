@@ -4,7 +4,7 @@
 ![test](https://user-images.githubusercontent.com/74028161/133083046-47946497-61ed-4de7-b698-71c9e746c493.png)
 
 ## 링크
-[Tic-Tac-Toe](https://mauv-hub.github.io/tic-tac-toe/)
+[Tic-Tac-Toe](https://mauvpark.github.io/tic-tac-toe/)
 
 ## Stack
 ### 1. Vanilla JS
